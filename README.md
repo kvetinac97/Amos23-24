@@ -1,6 +1,6 @@
-# Kroužek programování 23/24
+# Kroužek programování 24/25
 
-Kódy z kroužku programování 2023/2024 v SVČ Amos.
+Kódy z kroužku programování 2024/2025 v SVČ Amos.
 
 ## První pololetí
 
