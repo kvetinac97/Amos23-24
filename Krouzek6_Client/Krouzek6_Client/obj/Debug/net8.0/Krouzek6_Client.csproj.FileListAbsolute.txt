@@ -1,0 +1,14 @@
+C:\Users\3ducitel\Desktop\programování\Krouzek6_Client\Krouzek6_Client\bin\Debug\net8.0\Krouzek6_Client.exe
+C:\Users\3ducitel\Desktop\programování\Krouzek6_Client\Krouzek6_Client\bin\Debug\net8.0\Krouzek6_Client.deps.json
+C:\Users\3ducitel\Desktop\programování\Krouzek6_Client\Krouzek6_Client\bin\Debug\net8.0\Krouzek6_Client.runtimeconfig.json
+C:\Users\3ducitel\Desktop\programování\Krouzek6_Client\Krouzek6_Client\bin\Debug\net8.0\Krouzek6_Client.dll
+C:\Users\3ducitel\Desktop\programování\Krouzek6_Client\Krouzek6_Client\bin\Debug\net8.0\Krouzek6_Client.pdb
+C:\Users\3ducitel\Desktop\programování\Krouzek6_Client\Krouzek6_Client\obj\Debug\net8.0\Krouzek6_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3ducitel\Desktop\programování\Krouzek6_Client\Krouzek6_Client\obj\Debug\net8.0\Krouzek6_Client.AssemblyInfoInputs.cache
+C:\Users\3ducitel\Desktop\programování\Krouzek6_Client\Krouzek6_Client\obj\Debug\net8.0\Krouzek6_Client.AssemblyInfo.cs
+C:\Users\3ducitel\Desktop\programování\Krouzek6_Client\Krouzek6_Client\obj\Debug\net8.0\Krouzek6_Client.csproj.CoreCompileInputs.cache
+C:\Users\3ducitel\Desktop\programování\Krouzek6_Client\Krouzek6_Client\obj\Debug\net8.0\Krouzek6_Client.dll
+C:\Users\3ducitel\Desktop\programování\Krouzek6_Client\Krouzek6_Client\obj\Debug\net8.0\refint\Krouzek6_Client.dll
+C:\Users\3ducitel\Desktop\programování\Krouzek6_Client\Krouzek6_Client\obj\Debug\net8.0\Krouzek6_Client.pdb
+C:\Users\3ducitel\Desktop\programování\Krouzek6_Client\Krouzek6_Client\obj\Debug\net8.0\Krouzek6_Client.genruntimeconfig.cache
+C:\Users\3ducitel\Desktop\programování\Krouzek6_Client\Krouzek6_Client\obj\Debug\net8.0\ref\Krouzek6_Client.dll
