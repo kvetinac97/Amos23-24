@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS8600: Literál s hodnotou null nebo s možnou hodnotou null se převádí na typ, který nemůže mít hodnotu null.
+dotnet_diagnostic.CS8600.severity = silent
